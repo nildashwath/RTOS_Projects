@@ -1,0 +1,6 @@
+/home/sunbeam/Desktop/workspace/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:80:13:_cbSendTaskList	2
+/home/sunbeam/Desktop/workspace/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:100:12:_cbGetTime	1
+/home/sunbeam/Desktop/workspace/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:129:6:SYSVIEW_AddTask	3
+/home/sunbeam/Desktop/workspace/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:159:6:SYSVIEW_UpdateTask	5
+/home/sunbeam/Desktop/workspace/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:190:6:SYSVIEW_DeleteTask	6
+/home/sunbeam/Desktop/workspace/RTOS_workspace/common/ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.c:231:6:SYSVIEW_SendTaskInfo	1

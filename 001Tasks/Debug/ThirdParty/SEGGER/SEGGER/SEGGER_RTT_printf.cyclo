@@ -1,0 +1,5 @@
+../ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.c:112:13:_StoreChar	4
+../ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.c:137:13:_PrintUnsigned	20
+../ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.c:227:13:_PrintInt	25
+../ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.c:322:5:SEGGER_RTT_vprintf	34
+../ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.c:513:5:SEGGER_RTT_printf	1

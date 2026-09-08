@@ -1,0 +1,5 @@
+../Core/Src/rtc.c:5:7:show_time_date_itm	48	static
+../Core/Src/rtc.c:27:6:show_time_date	56	static
+../Core/Src/rtc.c:59:6:rtc_configure_time	16	static
+../Core/Src/rtc.c:70:6:rtc_configure_date	16	static
+../Core/Src/rtc.c:76:5:validate_rtc_information	16	static

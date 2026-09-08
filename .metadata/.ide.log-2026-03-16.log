@@ -1,0 +1,2 @@
+2026-03-17 00:07:40,229 [ERROR] AdobePublisher:187 - Exception while getting the server answer: java.net.SocketTimeoutException: Read timed out
+2026-03-17 00:07:41,065 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
